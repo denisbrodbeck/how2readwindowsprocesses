@@ -32,3 +32,12 @@ If you are missing dependencies, you can install them with [dep](https://github.
 cd "$GOPATH/src/github.com/denisbrodbeck/how2readwindowsprocesses"
 dep init
 ```
+
+## Credits
+
+Thanks go to [fluter](https://stackoverflow.com/a/36335496/3989211)'s hints and [xian](https://stackoverflow.com/a/865201/3989211)'s answer on SO.
+
+
+## License
+
+The Unlicense. Please have a look at the [LICENSE.md](LICENSE.md) for more details.

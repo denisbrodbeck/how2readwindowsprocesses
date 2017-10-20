@@ -35,8 +35,8 @@ dep init
 
 ## Credits
 
+See MSDN [doc](https://msdn.microsoft.com/en-us/library/windows/desktop/ms686701(v=vs.85).aspx) for way more info on this subject.
 Thanks go to [fluter](https://stackoverflow.com/a/36335496/3989211)'s hints and [xian](https://stackoverflow.com/a/865201/3989211)'s answer on SO.
-
 
 ## License
 
